@@ -506,7 +506,7 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:ToolBox"
-        "ProductCode" = "8:{5BE7BCFF-B653-453F-8B1F-2CACA6BA55C1}"
+        "ProductCode" = "8:{376D36F6-473A-45FD-917E-E639489E1F0D}"
         "PackageCode" = "8:{F6C97421-18F8-42A5-A4D3-DDD30627EE89}"
         "UpgradeCode" = "8:{0F56DB1E-3423-473E-884A-A0601773ADE1}"
         "AspNetVersion" = "8:4.0.30319.0"
@@ -530,7 +530,7 @@
         "UseSystemSearchPath" = "11:TRUE"
         "TargetPlatform" = "3:0"
         "PreBuildEvent" = "8:"
-        "PostBuildEvent" = "8:copy \"$(BuiltOuputPath)\" \"C:\\EsseivaN\\apps\"\r\ncopy \"$(BuiltOuputPath)\" \"C:\\WorkSpace\\Personnal\\website\\html\\files\\softwares\\toolbox\"\r\n"
+        "PostBuildEvent" = "8:copy \"$(BuiltOuputPath)\" \"C:\\EsseivaN\\apps\"\r\ncopy \"$(BuiltOuputPath)\" \"C:\\WorkSpace\\Personnal\\website\\html\\files\\softwares\\toolbox\"\r\n\"C:\\EsseivaN\\tools\\PostBuild\\PostBuild.exe\" \"C:\\WorkSpace\\Personnal\\Toolbar\\postbuild_config.log\""
         "RunPostBuildEvent" = "3:0"
         }
         "Registry"
