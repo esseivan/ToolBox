@@ -88,31 +88,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_4FF5163CC4F5DA1AB246E849F97DD159"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_0FCD823909D0D47BEF48D6AD0EDB635A"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_2F170406AA50C2322D37A157F242282C"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_0EBAD09AD7FF2A289F1329E997E44D2E"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_D71CBFAA105BB86722A6C4835E205C58"
+        "OwnerKey" = "8:_78C5C2D4C44F754ECA70EBC8B02CBFF8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -124,7 +100,31 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_78C5C2D4C44F754ECA70EBC8B02CBFF8"
+        "OwnerKey" = "8:_D71CBFAA105BB86722A6C4835E205C58"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_0EBAD09AD7FF2A289F1329E997E44D2E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_2F170406AA50C2322D37A157F242282C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_0FCD823909D0D47BEF48D6AD0EDB635A"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_4FF5163CC4F5DA1AB246E849F97DD159"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -229,11 +229,6 @@
             "AssemblyAsmDisplayName" = "8:ClipboardManager, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_0EBAD09AD7FF2A289F1329E997E44D2E"
-                    {
-                    "Name" = "8:ClipboardManager.exe"
-                    "Attributes" = "3:512"
-                    }
                 }
             "SourcePath" = "8:ClipboardManager.exe"
             "TargetName" = "8:"
@@ -260,11 +255,6 @@
             "AssemblyAsmDisplayName" = "8:NAudio, Version=1.8.3.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_0FCD823909D0D47BEF48D6AD0EDB635A"
-                    {
-                    "Name" = "8:NAudio.dll"
-                    "Attributes" = "3:512"
-                    }
                 }
             "SourcePath" = "8:NAudio.dll"
             "TargetName" = "8:"
@@ -291,11 +281,6 @@
             "AssemblyAsmDisplayName" = "8:CursorPosition, Version=1.0.2.9, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_2F170406AA50C2322D37A157F242282C"
-                    {
-                    "Name" = "8:CursorPosition.exe"
-                    "Attributes" = "3:512"
-                    }
                 }
             "SourcePath" = "8:CursorPosition.exe"
             "TargetName" = "8:"
@@ -322,11 +307,6 @@
             "AssemblyAsmDisplayName" = "8:SoundReducer, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_4FF5163CC4F5DA1AB246E849F97DD159"
-                    {
-                    "Name" = "8:SoundReducer.exe"
-                    "Attributes" = "3:512"
-                    }
                 }
             "SourcePath" = "8:SoundReducer.exe"
             "TargetName" = "8:"
@@ -353,11 +333,6 @@
             "AssemblyAsmDisplayName" = "8:Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_59033666E2EB9A2E3B9669E81DEE9A97"
-                    {
-                    "Name" = "8:Newtonsoft.Json.dll"
-                    "Attributes" = "3:512"
-                    }
                 }
             "SourcePath" = "8:Newtonsoft.Json.dll"
             "TargetName" = "8:"
@@ -384,11 +359,6 @@
             "AssemblyAsmDisplayName" = "8:System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
                 "ScatterAssemblies"
                 {
-                    "_78C5C2D4C44F754ECA70EBC8B02CBFF8"
-                    {
-                    "Name" = "8:System.Net.Http.dll"
-                    "Attributes" = "3:512"
-                    }
                 }
             "SourcePath" = "8:System.Net.Http.dll"
             "TargetName" = "8:"
@@ -415,11 +385,6 @@
             "AssemblyAsmDisplayName" = "8:EsseivaN_Lib, Version=1.3.4.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_D71CBFAA105BB86722A6C4835E205C58"
-                    {
-                    "Name" = "8:EsseivaN_Lib.dll"
-                    "Attributes" = "3:512"
-                    }
                 }
             "SourcePath" = "8:EsseivaN_Lib.dll"
             "TargetName" = "8:"
@@ -508,7 +473,7 @@
         "ProductName" = "8:ToolBox"
         "ProductCode" = "8:{376D36F6-473A-45FD-917E-E639489E1F0D}"
         "PackageCode" = "8:{F6C97421-18F8-42A5-A4D3-DDD30627EE89}"
-        "UpgradeCode" = "8:{0F56DB1E-3423-473E-884A-A0601773ADE1}"
+        "UpgradeCode" = "8:{6FDFC644-89E9-40BF-A427-6ED1714C3C84}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
