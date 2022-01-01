@@ -13,6 +13,8 @@ namespace Toolbox
 {
     public partial class frmMain : Form
     {
+        private const string APP_NAME = "ToolBar";
+
         public frmMain()
         {
             InitializeComponent();
@@ -199,18 +201,7 @@ namespace Toolbox
 
         private void box_startup_CheckedChanged(object sender, EventArgs e)
         {
-            SetStartup(box_startup.Checked);
-        }
-
-        private void SetStartup(bool runOnStartup)
-        {
-            string AppName = "ToolBox";
-            RegistryKey rk = Registry.CurrentUser.OpenSubKey("SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run", true);
-
-            if (runOnStartup)
-                rk.SetValue(AppName, Application.ExecutablePath.ToString());
-            else
-                rk.DeleteValue(AppName, false);
+            EsseivaN.Tools.Tools.SetStartup(APP_NAME, box_startup.Checked);
         }
 
         private void button_minimize_Click(object sender, EventArgs e)
